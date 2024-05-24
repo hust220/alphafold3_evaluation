@@ -52,4 +52,4 @@ Next, compile the `rna_only.db` file by:
 2. Remove duplicates
 3. Remove structures like `..........`
 
-
+The compiled dataset for RNA-only prediction is the file `rna_only_compiled.db`.
